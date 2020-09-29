@@ -1,0 +1,8 @@
+D:\Try\Christ3D\Christ3D.Domain.Core\bin\Debug\netstandard2.1\Christ3D.Domain.Core.deps.json
+D:\Try\Christ3D\Christ3D.Domain.Core\bin\Debug\netstandard2.1\Christ3D.Domain.Core.dll
+D:\Try\Christ3D\Christ3D.Domain.Core\bin\Debug\netstandard2.1\Christ3D.Domain.Core.pdb
+D:\Try\Christ3D\Christ3D.Domain.Core\obj\Debug\netstandard2.1\Christ3D.Domain.Core.AssemblyInfoInputs.cache
+D:\Try\Christ3D\Christ3D.Domain.Core\obj\Debug\netstandard2.1\Christ3D.Domain.Core.AssemblyInfo.cs
+D:\Try\Christ3D\Christ3D.Domain.Core\obj\Debug\netstandard2.1\Christ3D.Domain.Core.dll
+D:\Try\Christ3D\Christ3D.Domain.Core\obj\Debug\netstandard2.1\Christ3D.Domain.Core.pdb
+D:\Try\Christ3D\Christ3D.Domain.Core\obj\Debug\netstandard2.1\Christ3D.Domain.Core.csprojAssemblyReference.cache

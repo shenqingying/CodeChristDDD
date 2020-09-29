@@ -1,0 +1,13 @@
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Infrastruct.deps.json
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Infrastruct.dll
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Infrastruct.pdb
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Domain.Core.dll
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Domain.dll
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Domain.pdb
+D:\Try\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.1\Christ3D.Domain.Core.pdb
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.csprojAssemblyReference.cache
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.AssemblyInfoInputs.cache
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.AssemblyInfo.cs
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.csproj.CopyComplete
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.dll
+D:\Try\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.1\Christ3D.Infrastruct.pdb

@@ -1,0 +1,14 @@
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.csprojAssemblyReference.cache
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.AssemblyInfoInputs.cache
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.AssemblyInfo.cs
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.csproj.CoreCompileInputs.cache
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Application.deps.json
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Application.dll
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Application.pdb
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Domain.Core.dll
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Domain.dll
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Domain.pdb
+D:\Try\Christ3D\Christ3D.Application\bin\Debug\netstandard2.1\Christ3D.Domain.Core.pdb
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.csproj.CopyComplete
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.dll
+D:\Try\Christ3D\Christ3D.Application\obj\Debug\netstandard2.1\Christ3D.Application.pdb

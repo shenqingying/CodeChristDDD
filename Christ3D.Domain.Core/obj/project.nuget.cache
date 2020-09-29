@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kE46waVGqXslKG6YBppP9CN//EkuRiD0/TLfJ7mCWiZjmdbS3cK6uh6WBe8QDw5ATu2DjGsXBqWVFNFtNBhvvA==",
+  "success": true,
+  "projectFilePath": "D:\\Try\\Christ3D\\Christ3D.Domain.Core\\Christ3D.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sqy\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\sqy\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

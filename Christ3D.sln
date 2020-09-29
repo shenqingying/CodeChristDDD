@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Domain", "Christ3D.Domain\Christ3D.Domain.csproj", "{C637C575-82C6-4C86-A906-DF8D908E54FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Domain.Core", "Christ3D.Domain.Core\Christ3D.Domain.Core.csproj", "{90A4B2D1-99B0-47C2-874D-BE25A27EFF88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Infrastruct", "Christ3D.Infrastruct\Christ3D.Infrastruct.csproj", "{13626419-0941-470D-A0E1-AE18A386EA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Test", "Christ3D.Test\Christ3D.Test.csproj", "{37064A28-47AD-441C-A224-CDC7499F8258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Application", "Christ3D.Application\Christ3D.Application.csproj", "{BAD46F1C-A20A-4A05-8EA8-6A3524251E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C637C575-82C6-4C86-A906-DF8D908E54FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C637C575-82C6-4C86-A906-DF8D908E54FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C637C575-82C6-4C86-A906-DF8D908E54FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C637C575-82C6-4C86-A906-DF8D908E54FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A4B2D1-99B0-47C2-874D-BE25A27EFF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A4B2D1-99B0-47C2-874D-BE25A27EFF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A4B2D1-99B0-47C2-874D-BE25A27EFF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A4B2D1-99B0-47C2-874D-BE25A27EFF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13626419-0941-470D-A0E1-AE18A386EA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13626419-0941-470D-A0E1-AE18A386EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13626419-0941-470D-A0E1-AE18A386EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13626419-0941-470D-A0E1-AE18A386EA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37064A28-47AD-441C-A224-CDC7499F8258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37064A28-47AD-441C-A224-CDC7499F8258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37064A28-47AD-441C-A224-CDC7499F8258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37064A28-47AD-441C-A224-CDC7499F8258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD46F1C-A20A-4A05-8EA8-6A3524251E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD46F1C-A20A-4A05-8EA8-6A3524251E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD46F1C-A20A-4A05-8EA8-6A3524251E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD46F1C-A20A-4A05-8EA8-6A3524251E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269BDDD4-DBBE-4676-A9B7-B417A589A819}
+	EndGlobalSection
+EndGlobal
